@@ -1,64 +1,64 @@
-footer >section.footer{
-    background-color: rgba(0, 0, 0, 0.92);
-    display: flex;
-    color:white;
-    margin-top: 100px;
-    height: 350px;
-    width: 1100px;
+footer > section.footer {
+  background-color: rgba(0, 0, 0, 0.92);
+  display: flex;
+  color: white;
+  margin-top: 100px;
+  height: 350px;
+  width: 100%;
 }
-div.text_section{
-    width: 50%;
-    margin-left: 50px;
-    padding-left: 40px;
+div.text_section {
+  width: 50%;
+  margin-left: 50px;
+  padding-left: 40px;
 }
-div.text_section h3{
-    font-size: 40px;
-    margin-top: 30px;
-    margin-bottom: 20px;
-}
-
-div.text_section p{
-    font-size: 24px;
-    line-height: 26px;
-    text-align: left;
+div.text_section h3 {
+  font-size: 40px;
+  margin-top: 30px;
+  margin-bottom: 20px;
 }
 
-div.text_section h6{
-    font-size: 22px;
-    margin-top: 10px;
+div.text_section p {
+  font-size: 24px;
+  line-height: 26px;
+  text-align: left;
 }
 
-.icon img{
-    margin-left: 15px;
-    margin-top: 15px;
-    padding-bottom: 20px;
+div.text_section h6 {
+  font-size: 22px;
+  margin-top: 10px;
 }
 
-div.subscribe_section{
-margin-top: 30px;
-width: 40%;
-margin-left: 10%;
-font-size: 36px;
-padding-left: 30px;
+.icon img {
+  margin-left: 15px;
+  margin-top: 15px;
+  padding-bottom: 20px;
 }
 
-.email-tag{
-    font-size: 20px;
-    background-color: transparent;
-    border-radius: 4px;
-    margin-top: 15px;
-    margin-bottom: 5px;
-    width: 300px;
-    height: 30px;
+div.subscribe_section {
+  margin-top: 30px;
+  width: 40%;
+  margin-left: 10%;
+  font-size: 36px;
+  padding-left: 30px;
 }
 
-div.subscribe_section button{
-    background-color: rgba(31, 163, 124, 0.973);
-    color: white;
-    height: 50px;
-    width: 180px;
-    font-size: 25px;
-    border-radius: 8px;
-    margin-top: 30px;
-    margin-left: 5px;
+.email-tag {
+  font-size: 20px;
+  background-color: transparent;
+  border-radius: 4px;
+  margin-top: 15px;
+  margin-bottom: 5px;
+  width: 300px;
+  height: 30px;
+}
+
+div.subscribe_section button {
+  background-color: rgba(31, 163, 124, 0.973);
+  color: white;
+  height: 50px;
+  width: 180px;
+  font-size: 25px;
+  border-radius: 8px;
+  margin-top: 30px;
+  margin-left: 5px;
 }
